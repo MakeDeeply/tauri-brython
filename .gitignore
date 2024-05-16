@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+
+.vscode/*
+!.vscode/extensions.json
+
+logs
+*.log
+
+/target/
+dist
+
+__pycache__
+node_modules

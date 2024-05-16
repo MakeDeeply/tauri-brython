@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@codemirror/lang-javascript": "^6.2.2",
+    "codemirror": "^6.0.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3"
+  }
+}
